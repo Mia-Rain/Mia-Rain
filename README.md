@@ -1,6 +1,6 @@
 <p align="center">
   <h3 align="center">Mia&Cate</h3>
-  <p align="center">Trying to make projects and work on hobbies.</p>
+  <p align="center">Trying to find a job lol.</p>
   <p align="center">Self-medicating using THC</p>
 <p>
   
@@ -24,7 +24,7 @@ rsum - checksum generator making use of a xorshift prng in pure sh & od(1)
 > https://github.com/Mia-Rain/rsum
 shlibrandom - xorshift (xoroshiro64) in pure sh & seed generator using /dev/urandom or PIDs
 > https://github.com/Mia-Rain/shlibrandom
-art - our drawn art projects
+art - our drawn & image based art projects
 > https://a.transcendent.ink/ & https://github.com/Mia-Rain/arts
 writings - our written art projects - kinda unmaintained; pls see our fediverse via our website
 > https://w.transcendent.ink/ & https://github.com/Mia-Rain/writings
